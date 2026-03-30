@@ -28,7 +28,3 @@ Open `http://localhost:3000`.
 - `/` landing page
 - `/dashboard` operations dashboard
 - `/api/demo` POST endpoint for lead capture
-
-## Why this project is good for interviews
-
-It gives a clean story around product thinking, UI quality, route handlers, component structure, responsive design, and deployment readiness.
